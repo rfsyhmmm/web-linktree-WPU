@@ -5,6 +5,7 @@
 }
 
 body {
+  height: 100vh;
   font-family: "Lato", serif;
   font-weight: 200;
   font-style: normal;
@@ -31,6 +32,7 @@ section main {
   gap: 10px;
   max-width: 600px;
   justify-content: center;
+  align-items: center;
 }
 
 section main img {
